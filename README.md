@@ -1,1 +1,5 @@
-## tesla-clone app
+## Tesla-clone app
+
+
+Use npm start 
+
